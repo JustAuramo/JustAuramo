@@ -1,27 +1,18 @@
-<h1 align="center">Hi 👋, I'm Auramo</h1>
-<h3 align="center">I Try to learn everything new almost every day.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justauramo&label=Profile%20views&color=0e75b6&style=flat" alt="justauramo" /> </p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/EDb6VY9dkN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarasjarvi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/AuramoTV) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RealAuramo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AuramoTV) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justauramo" alt="justauramo" /></a> </p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JustAuramo&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JustAuramo&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JustAuramo&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on **Fivem**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🌱 I’m currently learning **ESX, QB, OX_LIB**
+---
+[![](https://visitcount.itsvg.in/api?id=JustAuramo&icon=3&color=1)](https://visitcount.itsvg.in)
 
-- 🤝 I’m looking for help with **Fivem Scripts**
-
-- 💬 Ask me about **How to modify scripts**
-
-- 📫 How to reach me **auramo (discord)**
-
-- ⚡ Fun fact **I Hate When something not working!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justauramo&show_icons=true&locale=en" alt="justauramo" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

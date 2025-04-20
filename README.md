@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/JustAuramo/JustAuramo/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
